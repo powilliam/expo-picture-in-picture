@@ -1,0 +1,9 @@
+{
+	"platforms": ["android", "apple"],
+	"apple": {
+		"modules": ["ExpoPictureInPictureModule"]
+	},
+	"android": {
+		"modules": ["expo.modules.pictureinpicture.ExpoPictureInPictureModule"]
+	}
+}
